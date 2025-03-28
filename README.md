@@ -1,6 +1,6 @@
 # create-dmg-action
 
-Build fancy DMGs on your Github Actions workflows with just one simple action.
+This is specifically for TazUO Launcher
 
 ## Inputs
 
